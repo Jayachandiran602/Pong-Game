@@ -1,0 +1,5 @@
+This project is about building a Pong game using the concept of Object-Oriented Programming (OOP). The game is designed in such a way that two players can play comfortably using the assigned keys on the keyboard. The Turtle library is used to create the environment, which makes the game look and feel like a real Pong game.
+
+The project is divided into separate files for better organization. The score is managed in a separate file, where the score updates whenever a player misses the ball. The paddle is also created in another file, and movement keys are assigned so that each player can control their paddle smoothly. One player can move their paddle up and down using one set of keys, while the other player uses a different set of keys.
+
+By applying OOP principles, each part of the game is handled by its own class. The paddle, ball, and score are implemented as individual classes, making the code easier to understand and maintain. The use of classes also allows the game to be more modular and realistic.
